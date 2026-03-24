@@ -1,1 +1,0 @@
-# LaTeX-Proyeccion Estreografica
